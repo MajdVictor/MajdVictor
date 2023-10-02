@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MajdVictor
-- 👀 I’m interested in Data Science, Machine Learning, Web development, Software Engineering
 - 📫 Feel free to reach out: +49 17673792569 or https://www.linkedin.com/in/majd-hafiri-405a87169/
 
 <!---
